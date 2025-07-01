@@ -1,2 +1,3 @@
 # AI_api
-Created with CodeSandbox
+Ingration of AI api from SheCodes
+
